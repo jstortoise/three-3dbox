@@ -1,1 +1,1 @@
-"# three-3dbox" 
+This is most simple example of Three.js showing 3d box.
